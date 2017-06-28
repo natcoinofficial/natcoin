@@ -1,0 +1,2 @@
+# natcoin
+natcoin Cryptocurrency
